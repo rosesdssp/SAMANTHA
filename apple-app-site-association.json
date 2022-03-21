@@ -1,0 +1,28 @@
+//S4D6CM849V.com.hiroia.novabeantank
+
+{
+    "appclips":{
+        "apps":["S4D6CM849V.com.hiroia.novabeantank.clip"]
+    },
+    "applinks":{
+        "apps":[
+        ],
+        "details":{
+            "S4D6CM849V.com.hiroia.novabeantank":{
+                "paths":[
+                    "*" // 這裡的Path根據實際情況配置即可
+                ]
+            }
+        }
+    },
+    "webcredentials":{
+        "apps":[
+            "S4D6CM849V.com.hiroia.novabeantank",
+        ]
+    },
+    "activitycontinuation":{
+        "apps":[
+            "S4D6CM849V.com.hiroia.novabeantank",
+        ]
+    }
+}
